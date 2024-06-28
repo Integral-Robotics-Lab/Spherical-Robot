@@ -79,4 +79,4 @@ sameerahashmi565@gmail.com
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-![Designing image] (https://github.com/Integral-Robotics-Lab/Spherical-Robot/tree/main/Designing%20image)
+(https://github.com/Integral-Robotics-Lab/Spherical-Robot/tree/main/Designing%20image)
