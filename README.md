@@ -79,4 +79,8 @@ sameerahashmi565@gmail.com
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-(https://github.com/Integral-Robotics-Lab/Spherical-Robot/tree/main/Designing%20image)
+![internal assembly](https://github.com/Integral-Robotics-Lab/Spherical-Robot/assets/140057631/28ecbd56-0773-49d0-89a9-42b77b628dab)
+
+![Outer view](https://github.com/Integral-Robotics-Lab/Spherical-Robot/assets/140057631/d686b1bd-27be-43ae-b3a6-fc0d39da17a4)
+
+![WiFi controlled](https://github.com/Integral-Robotics-Lab/Spherical-Robot/assets/140057631/a35c33f2-f7e4-4d99-ac8a-2fa15f41d4bf)
