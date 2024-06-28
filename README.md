@@ -75,8 +75,6 @@ SAMEERA HASHMI
 
 sameerahashmi565@gmail.com
 
-## License 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 ![internal assembly](https://github.com/Integral-Robotics-Lab/Spherical-Robot/assets/140057631/28ecbd56-0773-49d0-89a9-42b77b628dab)
