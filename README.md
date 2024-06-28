@@ -36,26 +36,38 @@ I extend my sincere appreciation to the Integral University Robotics Lab ([https
 
   **Torque =Force (N)×Lever Arm (m) = 0.8Kg.m**
 
-- **Forward Kinematics (Differential Drive):
- V=(𝑣𝑟+𝑣𝑙)/2 = 1 m/s
- 𝜔=(𝑣𝑟−𝑣𝑙)/L = 10.44 rad/s**
+- **Forward Kinematics (Differential Drive):**
+  
+   **V=(𝑣𝑟+𝑣𝑙)/2 = 1 m/s**
+  
+   **𝜔=(𝑣𝑟−𝑣𝑙)/L = 10.44 rad/s**
 
-- **Inverse Kinematics (Differential Drive):
- 𝑣𝑟=V+𝜔*𝐿/2 = 1.732m/s
- 𝑣𝑙=V−𝜔*𝐿/2 =0.27m/s**
-- **Wheel Speed to Linear and Angular Velocity Conversion (Omni Wheels):
- 𝑣𝑥=∑𝑣𝑖cos⁡(𝜃𝑖)
- 𝑣𝑦=∑𝑣𝑖sin⁡(𝜃𝑖)**
+- **Inverse Kinematics (Differential Drive):**
+  
+    **𝑣𝑟=V+𝜔*𝐿/2 = 1.732m/s**
+  
+     **𝑣𝑙=V−𝜔*𝐿/2 =0.27m/s**
+  
+- **Wheel Speed to Linear and Angular Velocity Conversion (Omni Wheels):**
+  
+  **𝑣𝑥=∑𝑣𝑖cos⁡(𝜃𝑖)**
+  **𝑣𝑦=∑𝑣𝑖sin⁡(𝜃𝑖)**
+  
+- **Dynamic Model (Forces and Torques):**
+  
+     **𝐹=𝑚𝑎**
+  
+     **𝜏=𝐼𝛼**
 
-- **Dynamic Model (Forces and Torques):
- 𝐹=𝑚𝑎
- 𝜏=𝐼𝛼**
+- **Energy Consumption:**
+  
+    **𝐸=𝑃⋅𝑡 = 10.05 Wh**
 
-- **Energy Consumption:
- 𝐸=𝑃⋅𝑡 = 10.05 Wh**
-
-- **Euclidean Distance Formula:
- Distance=sqrt{(xweight−xsphere)^2+(yweight−ysphere)^2+(zweight−zsphere)^2} = 5.93cm**
+- **Euclidean Distance Formula:**
+  
+   **Distance=sqrt{(xweight−xsphere)^2+(yweight−ysphere)^2+(zweight−zsphere)^2}**
+ 
+     **= 5.93cm**
 
 ## Author
 
